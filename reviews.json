@@ -1,0 +1,131 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Carter is incredibly knowledgeable and passionate about physics. The lectures are engaging, though sometimes the material can be challenging."
+      },
+      {
+        "professor": "Prof. James Mitchell",
+        "subject": "Calculus",
+        "stars": 3,
+        "review": "Prof. Mitchell is a good teacher, but his explanations can be a bit unclear at times. Office hours are helpful."
+      },
+      {
+        "professor": "Dr. Linda Wong",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Wong makes chemistry fun and easy to understand. Her enthusiasm for the subject is contagious."
+      },
+      {
+        "professor": "Dr. Richard Lee",
+        "subject": "Biology",
+        "stars": 2,
+        "review": "Dr. Lee's lectures are dry and not very engaging. The course material is interesting, but his teaching style is not very effective."
+      },
+      {
+        "professor": "Prof. Susan Clark",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Clark brings history to life with her storytelling. The assignments are fair, and she's very approachable."
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Johnson is an excellent instructor who explains complex concepts clearly. His coding examples are practical and relevant."
+      },
+      {
+        "professor": "Prof. Anna Brown",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Prof. Brown's lectures are informative, but sometimes they can be a bit monotonous. Her grading is strict but fair."
+      },
+      {
+        "professor": "Dr. Kevin Smith",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Smith has a deep understanding of mathematics and provides clear explanations. His problem sets are challenging but rewarding."
+      },
+      {
+        "professor": "Prof. Jessica Davis",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Prof. Davis is passionate about literature and encourages thoughtful discussions. Her feedback on essays is constructive and helpful."
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Dr. Wilson is knowledgeable but tends to rush through the material. His office hours are a good opportunity for additional help."
+      },
+      {
+        "professor": "Prof. Laura Martinez",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Prof. Martinez stimulates deep thinking and discussion. Her lectures are engaging, though the subject matter can be abstract."
+      },
+      {
+        "professor": "Dr. Thomas Anderson",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Dr. Anderson's teaching style is difficult to follow. The course content is valuable, but his explanations are often confusing."
+      },
+      {
+        "professor": "Prof. Megan Robinson",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Prof. Robinson is enthusiastic and well-informed. She encourages critical thinking and provides a broad perspective on political issues."
+      },
+      {
+        "professor": "Dr. Steven Harris",
+        "subject": "Astronomy",
+        "stars": 5,
+        "review": "Dr. Harris has a deep passion for astronomy and presents the material in an engaging way. The labs are particularly well-designed."
+      },
+      {
+        "professor": "Prof. Olivia Lewis",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Prof. Lewis is knowledgeable, but her lectures can be a bit disorganized. The course content is interesting, though."
+      },
+      {
+        "professor": "Dr. Christopher Walker",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Walker is passionate about environmental issues and provides practical insights. The field trips and projects are well-organized."
+      },
+      {
+        "professor": "Prof. Natalie Young",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Prof. Young fosters a dynamic learning environment. Her discussions are thought-provoking and her assignments are relevant to real-world issues."
+      },
+      {
+        "professor": "Dr. Brian King",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Dr. King is an expert in the field and explains complex concepts effectively. The course includes useful lab work and research opportunities."
+      },
+      {
+        "professor": "Prof. Rachel Scott",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Prof. Scott's knowledge of music theory is extensive, but her lectures can be somewhat dry. Her feedback on compositions is insightful."
+      },
+      {
+        "professor": "Dr. Daniel Thomas",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Dr. Thomas is engaging and knowledgeable. The course includes a variety of interesting case studies and practical applications."
+      },
+      {
+        "professor": "Prof. Karen Adams",
+        "subject": "Geography",
+        "stars": 5,
+        "review": "Prof. Adams makes geography come alive with interactive maps and real-world examples. Her enthusiasm for the subject is inspiring."
+      }
+    ]
+  }
+  
